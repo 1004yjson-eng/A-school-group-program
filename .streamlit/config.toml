@@ -1,0 +1,20 @@
+# Streamlit 테마 설정 파일
+
+[theme]
+# 기본 색상 설정
+primaryColor = "#FF4B4B"           # 주요 버튼, 링크 등의 강조 색상 (밝은 빨강 계열)
+backgroundColor = "#FFFFFF"         # 앱의 배경색 (흰색)
+secondaryBackgroundColor = "#F0F2F6" # 사이드바와 컴포넌트의 배경색 (옅은 회색)
+textColor = "#333333"               # 기본 텍스트 색상 (짙은 회색)
+
+# 폰트 설정
+font = "sans serif" # 'sans serif', 'serif', 'monospace' 중 선택 가능
+# font = "serif"
+
+[global]
+# 앱의 기본 상태 설정 (선택 사항)
+# dataFrameSort: false
+
+[mapbox]
+# Mapbox API 키 설정 (지도를 사용할 경우)
+# accessToken = ""
